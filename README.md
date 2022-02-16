@@ -1,7 +1,6 @@
 - 👋 Hi, I’m yoni klein
 - 👀 I’m interested in Python and.. chess
 - 🌱 I’m currently learning Software Engineering.
-- 💞️ I’m looking to collaborate on ...
 - 📫 yonatankleinse@gmeil.com
 
 <!---
