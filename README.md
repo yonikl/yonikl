@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python and.. chess
 - 🌱 I’m currently learning Software Engineering.
 - 💞️ I’m looking to collaborate on ...
-- 📫 yonatanklein058@gmeil.com
+- 📫 yonatankleinse@gmeil.com
 
 <!---
 yonikl/yonikl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
